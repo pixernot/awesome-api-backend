@@ -1,0 +1,1 @@
+Content for file modernize-the-keyboard-shortcuts-across-all-pages.md
