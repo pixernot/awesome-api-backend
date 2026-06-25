@@ -1,0 +1,1 @@
+Content for file polish-the-mobile-layout-in-the-billing-flow.md
