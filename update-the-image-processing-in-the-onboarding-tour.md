@@ -1,0 +1,1 @@
+Content for file update-the-image-processing-in-the-onboarding-tour.md
