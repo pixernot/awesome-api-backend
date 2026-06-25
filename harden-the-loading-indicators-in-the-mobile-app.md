@@ -1,0 +1,1 @@
+Content for file harden-the-loading-indicators-in-the-mobile-app.md
