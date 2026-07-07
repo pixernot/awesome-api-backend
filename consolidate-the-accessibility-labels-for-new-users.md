@@ -1,0 +1,1 @@
+Content for file consolidate-the-accessibility-labels-for-new-users.md
