@@ -1,0 +1,1 @@
+Content for file harden-the-usage-metrics-in-the-onboarding-tour.md
