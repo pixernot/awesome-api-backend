@@ -1,0 +1,1 @@
+Content for file harden-the-api-client-for-free-tier-users.md
