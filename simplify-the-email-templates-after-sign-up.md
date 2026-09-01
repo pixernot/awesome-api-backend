@@ -1,0 +1,1 @@
+Content for file simplify-the-email-templates-after-sign-up.md
